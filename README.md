@@ -3,7 +3,10 @@
 
 ## 🛠️ Tecnologias
 
-[![JavaScript](https://readmecodegen.vercel.app/api/social-icon?name=javascript&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![HTML](https://readmecodegen.vercel.app/api/social-icon?name=html&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [![CSS](https://readmecodegen.vercel.app/api/social-icon?name=css&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) [![React](https://readmecodegen.vercel.app/api/social-icon?name=react&size=35)](https://react.dev/)
+[![JavaScript](https://readmecodegen.vercel.app/api/social-icon?name=javascript&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+[![HTML](https://readmecodegen.vercel.app/api/social-icon?name=html&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
+[![CSS](https://readmecodegen.vercel.app/api/social-icon?name=css&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+[![React](https://readmecodegen.vercel.app/api/social-icon?name=react&size=35)](https://react.dev/)
 
 <!--
 **lua2798beatriz/lua2798beatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
