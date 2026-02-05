@@ -2,10 +2,9 @@
 [![Connect no LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&text=Connect&bg=%230077B5)](https://www.linkedin.com/in/anabeatrizfreitas98)
 
 ## 🛠️ Tecnologias
-
 [![JavaScript](https://readmecodegen.vercel.app/api/social-icon?name=javascript&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
-[![HTML](https://readmecodegen.vercel.app/api/social-icon?name=html&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
-[![CSS](https://readmecodegen.vercel.app/api/social-icon?name=css&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+[![HTML5](https://readmecodegen.vercel.app/api/social-icon?name=html5&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
+[![CSS](https://readmecodegen.vercel.app/api/social-icon?name=css3&size=35)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 [![React](https://readmecodegen.vercel.app/api/social-icon?name=react&size=35)](https://react.dev/)
 
 <!--
