@@ -1,6 +1,7 @@
 ## Oie! Sou Ana Beatriz😉👋
 [![Connect no LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&text=Connect&bg=%230077B5)](https://www.linkedin.com/in/anabeatrizfreitas98)
 
+**JavaScript** [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | **HTML** [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | **CSS** [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | **React** [![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 
 <!--
 **lua2798beatriz/lua2798beatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-  <a href="https://github.com/lua2798beatriz">
-    <img height="180cm" scr="http://github-readme-status.versel.app/api?usarname=lua2798beatriz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-</div>
+
