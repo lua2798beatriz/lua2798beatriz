@@ -1,5 +1,6 @@
 ## Oie! Sou Ana Beatriz😉👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabeatrizfreitas98)
+[![Connect no LinkedIn](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&text=Connect&bg=%230077B5)](https://www.linkedin.com/in/anabeatrizfreitas98)
+
 
 <!--
 **lua2798beatriz/lua2798beatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
